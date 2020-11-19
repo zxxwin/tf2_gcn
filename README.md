@@ -1,3 +1,5 @@
+# 图卷积神经网络(GCN)理解与tensorflow2.0代码实现
+代码对应的 CSDN 文章地址：https://blog.csdn.net/VariableX/article/details/109820684
 
 
 图(Graph)，一般用 $G=(V,E)$ 表示，这里的$V$是图中节点的集合，$E$ 为边的集合，节点的个数用$N$表示。在一个图中，有三个比较重要的矩阵：
